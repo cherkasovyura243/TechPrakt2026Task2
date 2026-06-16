@@ -1,7 +1,7 @@
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
-    background: #f2f4f8;
+    font-family: Verdana, sans-serif;
+    background: #e8edf5;
 }
 
 .news-list {
@@ -11,12 +11,12 @@ body {
 
 .news-card {
     background: white;
-    padding: 20px;
-    margin-bottom: 20px;
-    border-radius: 12px;
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 15px;
 }
 
 .news-card img {
     width: 100%;
-    border-radius: 10px;
+    border-radius: 15px;
 }
